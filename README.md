@@ -8,6 +8,10 @@
 
 ![Activity 2 Merge](images/activity2-merge.png)
 
-## Activity 3 - Successful Merge
+## Activity 3
 
 ![Successful merge](images/activity2-successful-merge.png)
+
+## Activity 4
+
+![Activity 4 Commits](images/activity4-commits.png)
