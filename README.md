@@ -15,3 +15,13 @@
 ## Activity 4
 
 ![Activity 4 Commits](images/activity4-commits.png)
+
+## Activity 5
+
+### Before Rebase
+
+![Before Rebase](images/activity5-before-rebase.png)
+
+### Rebase and Result
+
+![Rebase and Result](images/activity5-rebase.png)
